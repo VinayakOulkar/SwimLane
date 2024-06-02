@@ -1,4 +1,4 @@
-# swimlane
+# SwimLane
 
 ## Project setup
 ```
