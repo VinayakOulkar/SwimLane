@@ -18,3 +18,8 @@ npm run serve
 ### Initial Page
 
 <img width="1280" alt="Initial_Page" src="https://github.com/VinayakOulkar/SwimLane/assets/128286075/4ce3afea-c515-422b-a6c6-357fceea96ad">
+
+### On Scroll
+
+![Scroll](https://github.com/VinayakOulkar/SwimLane/assets/128286075/ad89ba67-5c79-4fad-a569-690d130afc99)
+
