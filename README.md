@@ -21,7 +21,7 @@ npm run serve
 
 ### On Scroll
 
-![Scroll](https://github.com/VinayakOulkar/SwimLane/assets/128286075/ad89ba67-5c79-4fad-a569-690d130afc99)
+<img width="1280" alt="Scroll" src="https://github.com/VinayakOulkar/SwimLane/assets/128286075/adc75a20-208c-4d66-927c-c8d3562bc59b">
 
 ### Supports responsiveness for every device
 
