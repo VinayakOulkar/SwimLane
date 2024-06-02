@@ -10,15 +10,9 @@ npm install
 npm run serve
 ```
 
-### Compiles and minifies for production
-```
-npm run build
-```
+### Live Website
 
-### Lints and fixes files
-```
-npm run lint
-```
+<a href="https://665c25c137abf61cf0ca1ce3--soft-praline-6d56bd.netlify.app/">Click Here<a>
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+### Screenshots:
+### Initial Page
