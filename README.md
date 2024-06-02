@@ -23,3 +23,8 @@ npm run serve
 
 ![Scroll](https://github.com/VinayakOulkar/SwimLane/assets/128286075/ad89ba67-5c79-4fad-a569-690d130afc99)
 
+### Supports responsiveness for every device
+
+<img width="1280" alt="Responsive" src="https://github.com/VinayakOulkar/SwimLane/assets/128286075/32782ef5-b2de-4db5-8848-4ac583bd31b2">
+
+
